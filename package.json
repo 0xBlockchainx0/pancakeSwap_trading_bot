@@ -9,6 +9,6 @@
   "author": "donQuixote",
   "license": "ISC",
   "dependencies": {
-    "ethers": "^5.1.4"
+    "ethers": "^5.7.2"
   }
 }
